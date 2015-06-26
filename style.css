@@ -1,0 +1,42 @@
+#main {
+	position:relative;
+	width:95%;
+	height:30%;
+	border:1px solid black;
+	margin:1% 2%;
+	overflow:auto;
+}
+
+#bus {
+	margin:5px;
+	font-size:1.5em;
+}
+
+#location {
+	margin:5px;
+	font-size:0.8em;
+}
+
+.coordinate {
+	margin:1px 5px;
+	font-size:0.6em;
+}
+
+#time {
+	position:absolute;
+	right:10px;
+	top:10px;
+	font-size:1.5em;
+}
+
+.man {
+	background-color:red;
+}
+
+.queens {
+	background-color:green;
+}
+
+.bklyn {
+	background-color:blue;
+}
