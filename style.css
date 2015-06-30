@@ -29,14 +29,17 @@
 	font-size:1.5em;
 }
 
+/* use colors from lonely planet 
+ * http://rizzo.lonelyplanet.com/styleguide/design-elements/colours 
+ */
 .man {
-	background-color:red;
+	background-color:#fa5e5b;
 }
 
 .queens {
-	background-color:green;
+	background-color:#16c98d;
 }
 
 .bklyn {
-	background-color:blue;
+	background-color:#1d508d;
 }
